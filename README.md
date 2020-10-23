@@ -5,7 +5,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 [![Demo_Video](https://img.youtube.com/vi/PRbsUTQsbME/0.jpg)](https://www.youtube.com/watch?v=PRbsUTQsbME)
 
 # Block Diagram of the Chatbot
-![](L5_chatbot_block_dig.png)
+![](L7_chatbot_block_dig.png)
 
 # Play with the chatbot using below link
 [PlantServo Chatbot](https://trickysecondhandfactor.tulasi533.repl.co)
