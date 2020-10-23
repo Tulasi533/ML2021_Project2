@@ -32,7 +32,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 - [For Java Script Syntax and how to use](https://www.w3schools.com/js/DEFAULT.asp)
 
 # Team Mates 
-- Ch.Satya.Rama.Tulasi **(18pa1a0533)**
+- Ch.Satya Rama Tulasi **(18pa1a0533)**
 - Ch.Baby Navya **(18pa1a0426)**
 - Ch.Mahesh **(19pa1a0534)**
 
