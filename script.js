@@ -27,7 +27,7 @@ function taketheinput(event) {
 	// here is the js code for input processing
 	//if they hit the enter key 
 	if(event.key === "Enter"){
-    // create a USER message block
+                // create a USER message block
 		messages.innerHTML += userblock.outerHTML;
 		// and change its ID
 		msgno += 1;
@@ -44,7 +44,7 @@ function taketheinput(event) {
 function processinput(inputval){
 
 	if(inputval!=""){
-    // create a BOT message block
+		// create a BOT message block
 		messages.innerHTML += botblock.outerHTML
 		// and change its ID
 		msgno += 1
