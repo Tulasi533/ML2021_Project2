@@ -22,7 +22,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 - *Enter the option with shortform mentioned above*
   - Chatbot gives info.
   
-# Demo Video of this Chatbot
+# Demo Video of how to use this chatbot
+**Click on below picture to play the video**<br />
 [![Demo_Video](https://img.youtube.com/vi/PRbsUTQsbME/0.jpg)](https://www.youtube.com/watch?v=PRbsUTQsbME)
 
 # Block Diagram of the Chatbot
@@ -38,8 +39,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 - Json used for mock data
 
 # References
-- [For **Java Script Syntax** and **how to use**](https://www.w3schools.com/js/DEFAULT.asp)
-- [For how to use **XML HTTP request**](https://www.w3schools.com/xml/xml_http.asp)
+- [For Java Script Syntax and how to use](https://www.w3schools.com/js/DEFAULT.asp)
+
 
 
 **Thank You!!!!!**
