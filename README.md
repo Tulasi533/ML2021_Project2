@@ -39,8 +39,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 - Json used for mock data
 
 # References
-- [For Java Script Syntax and how to use](https://www.w3schools.com/js/DEFAULT.asp)
-
-
+- [For **Java Script Syntax** and **how to use it**](https://www.w3schools.com/js/DEFAULT.asp)
+- [For **XML HTTP Request**](https://www.w3schools.com/xml/xml_http.asp)
 
 **Thank You!!!!!**
