@@ -1,6 +1,11 @@
 # ML2021_Project2
 A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 
+# Team Mates 
+- Chinthalapudi Satya Rama Tulasi **(18pa1a0533)**
+- Chilakala Baby Navya **(18pa1a0426)**
+- Chilakala Bala Mahesh **(19pa1a0534)**
+
 # Documentation on how to use Chatbot
 ## Steps to use bot:
 - *Open the [PlantServo Chatbot](https://trickysecondhandfactor.tulasi533.repl.co).*
@@ -31,9 +36,6 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 # References
 - [For Java Script Syntax and how to use](https://www.w3schools.com/js/DEFAULT.asp)
 
-# Team Mates 
-- Ch.Satya Rama Tulasi **(18pa1a0533)**
-- Ch.Baby Navya **(18pa1a0426)**
-- Ch.Mahesh **(19pa1a0534)**
+
 
 **Thank You!!!!!**
