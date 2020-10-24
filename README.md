@@ -31,7 +31,8 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 # Tools and Computer languages that I used for this Chatbot
 - VSCode for IDE
 - repl.it
-- HTML, CSS, Java Script, Json
+- HTML, CSS, Java Script
+- Json used for mock data
 
 # References
 - [For Java Script Syntax and how to use](https://www.w3schools.com/js/DEFAULT.asp)
