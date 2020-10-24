@@ -1,7 +1,7 @@
 # ML2021_Project2
 A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 
-# Team Mates 
+# About Team
  - **Team Name** - Lilac Pasteur
  - **Team No** - 1161
  - **Team Members** 
