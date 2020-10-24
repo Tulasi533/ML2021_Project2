@@ -2,9 +2,12 @@
 A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 
 # Team Mates 
-- Chinthalapudi Satya Rama Tulasi **(18pa1a0533)**
-- Chilakala Baby Navya **(18pa1a0426)**
-- Chilakala Bala Mahesh **(19pa1a0534)**
+ - **Team Name** - Lilac Pasteur
+ - **Team No** - 1161
+ - **Team Members** 
+    - Chinthalapudi Satya Rama Tulasi **(18pa1a0533)**
+    - Chilakala Baby Navya **(18pa1a0426)**
+    - Chilakala Bala Mahesh **(19pa1a0534)**
 
 # Documentation on how to use Chatbot
 ## Steps to use bot:
