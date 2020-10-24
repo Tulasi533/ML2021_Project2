@@ -4,32 +4,34 @@ body{
 }
   
 .head{
-  text-align:center;
-  width:50%;
-  background-color:rgba(21, 7, 222,0.7);
-  border:2px white solid;
-  margin:auto;
-  border-radius:20px;
-  font-weight:bold;
-  color:white;
-  animation: myanimation 2s infinite;
-  margin-top:5%;
-  box-shadow: 10px 10px rgba(247, 245, 245,0.7);
+    text-align:center;
+    width:50%;
+    background-color:rgba(21, 7, 222,0.7);
+    border:2px white solid;
+    margin:auto;
+    border-radius:20px;
+    font-weight:bold;
+    color:white;
+    animation: myanimation 2s infinite;
+    margin-top:5%;
+    box-shadow: 10px 10px rgba(247, 245, 245,0.7);
 }
 
 @keyframes myanimation {
-  0% {background-color: rgba(224, 7, 24,0.7);}
-  25%{background-color:rgba(21, 7, 222,0.7);}
-  50%{background-color:rgba(222, 7, 211,0.7);}
-  100% {background-color: rgba(232, 69, 9,0.7);}
+    0% {background-color: rgba(224, 7, 24,0.7);}
+    25%{background-color:rgba(21, 7, 222,0.7);}
+    50%{background-color:rgba(222, 7, 211,0.7);}
+    100% {background-color: rgba(232, 69, 9,0.7);}
 }
+
 .logo{
-  width:100px;
-  height:100px;
-  border-radius:50%;
-  margin:auto;
-  margin-top:20px;
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    margin:auto;
+    margin-top:20px;
 }
+
 .botmessage {
     background: #f51d57;
     padding: 10px;
@@ -51,55 +53,56 @@ body{
 
 #box {
     background: rgba(194, 252, 251,0.7);
-  padding: 10px;
-  border-radius: 10px;
-  width: 50%;
-  margin: auto;
-  margin-top:5%;
-  border: 4px #de1bd4 solid;
-  font-size: 20px;
-  font-weight: bold;
+    padding: 10px;
+    border-radius: 10px;
+    width: 50%;
+    margin: auto;
+    margin-top:5%;
+    border: 4px #de1bd4 solid;
+    font-size: 20px;
+    font-weight: bold;
   
 }
 
 .userblock {
-  text-align: right;
+    text-align: right;
 }
 
 #input {
-  width: 100%;
-  border-radius: 10px;
-  box-sizing: border-box;
-  height:40px;
-  font-size: 15px;
+    width: 100%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    height:40px;
+    font-size: 15px;
   
 }
-
 
 #hidden{
     display: none;
 }
 
 iframe,img{
-  margin:10px;
-  width:300px;
-  height:300px;
-  display:block;
+    margin:10px;
+    width:300px;
+    height:300px;
+    display:block;
 
 }
+
 .botimg{
-  border-radius:50%;
-  width:70px;
-  height:70px;
-  transform: scaleX(-1);  
-  border:2px white solid;
+    border-radius:50%;
+    width:70px;
+    height:70px;
+    transform: scaleX(-1);  
+    border:2px white solid;
 }
+
 .userimg{
-  border-radius:50%;
-  width:70px;
-  height:70px;
-  display: block; 
-  border:2px white solid;
+    border-radius:50%;
+    width:70px;
+    height:70px;
+    display: block; 
+    border:2px white solid;
 }
   
   
