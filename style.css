@@ -60,8 +60,7 @@ body{
     margin-top:5%;
     border: 4px #de1bd4 solid;
     font-size: 20px;
-    font-weight: bold;
-  
+    font-weight: bold; 
 }
 
 .userblock {
@@ -73,8 +72,7 @@ body{
     border-radius: 10px;
     box-sizing: border-box;
     height:40px;
-    font-size: 15px;
-  
+    font-size: 15px; 
 }
 
 #hidden{
@@ -86,7 +84,6 @@ iframe,img{
     width:300px;
     height:300px;
     display:block;
-
 }
 
 .botimg{
