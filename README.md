@@ -26,7 +26,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
 ![](L7_chatbot_block_dig.jpg)
 
 # Play with the chatbot using below link
-[PlantServo Chatbot](https://trickysecondhandfactor.tulasi533.repl.co)
+[PlantServo Chatbot](https://trickysecondhandfactor.tulasi533.repl.co/)
 
 # Tools and Computer languages that I used for this Chatbot
 - VSCode for IDE
