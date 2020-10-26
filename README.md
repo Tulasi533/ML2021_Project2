@@ -24,7 +24,7 @@ A simple chatbot using HTML, CSS, JAVASCRIPT and JSON as mock data
   
 # Demo Video of how to use this chatbot
 **Click on below picture to play the video**<br />
-[![Demo_Video](https://img.youtube.com/vi/PRbsUTQsbME/0.jpg)](https://www.youtube.com/watch?v=PRbsUTQsbME)
+[![Demo_Video](https://img.youtube.com/vi/_ThaGwb4LP0/0.jpg)](https://www.youtube.com/watch?v=_ThaGwb4LP0)
 
 # Block Diagram of the Chatbot
 ![](L7_chatbot_block_dig.png)
